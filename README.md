@@ -12,3 +12,6 @@
 ## 装修器材
 - [Eubiq电线管理](http://www.eubiq.com/)
 - [Besglas 玻璃](http://www.besglas.com/)
+
+## 智能家居
+- [Z-wave系](http://www.z-wave.com/shop-z-wave-smart-home-brands)
